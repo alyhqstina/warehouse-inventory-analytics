@@ -1,0 +1,6 @@
+Product,Stock,Unit Cost,Stock Status,Replenishment Qty
+Laptop,150,800,SUFFICIENT STOCK,0
+Keyboard,300,25,SUFFICIENT STOCK,0
+Mouse,500,15,SUFFICIENT STOCK,0
+Monitor,80,200,LOW STOCK,20
+Printer,40,350,LOW STOCK,60
