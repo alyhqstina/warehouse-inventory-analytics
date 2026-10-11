@@ -43,7 +43,7 @@ This project explores how inventory calculations and data visualisation can help
 
 ## Dashboard 1: Warehouse Inventory Overview
 
-![Warehouse Inventory Overview](screenshots/dashboard-1-inventory-overview.png)
+![Warehouse Inventory Overview](screenshots/warehouse-inventory-system-1.png)
 
 This dashboard presents inventory levels, stock status and inventory valuation.
 
@@ -59,7 +59,7 @@ This dashboard presents inventory levels, stock status and inventory valuation.
 
 ## Dashboard 2: Inventory Replenishment Analytics
 
-![Inventory Replenishment Analytics](screenshots/dashboard-2-replenishment-analytics.png)
+![Inventory Replenishment Analytics](screenshots/inventory-replenishment-analytics-2.png)
 
 This dashboard presents the replenishment quantities and estimated purchasing expenditure for a separate simulated inventory scenario.
 
